@@ -2,9 +2,8 @@
 💫My name is Dinh Trung Hieu. I'm a <Strong> Java developer </Strong>  from VietNam. I am a person who always tries to overcome my limitations and always set myself challenges so that I can become the best version of myself. The major that I am interested in is website programming.
 <img align="right" alt="Coding" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" data-canonical-src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinhtrunghieu&label=Profile%20views&color=0e75b6&style=flat" alt="dinhtrunghieu" /> </p>
-
-- 📫 How to reach me **aratadz.h2r@gmail.com**
-
+<a></a>📫 How to reach me **aratadz.h2r@gmail.com**
+<br>
 <g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I am an intern at LAPTRINHJAVAWEB CO., LTD
 <br>
 <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji>
